@@ -1,6 +1,6 @@
 # Foundation-properties
 
-The CSV file contains the database "Foundation properties" featured in the article "The business of restituting properties in Istanbul."
+The XLXS file contains the database "Foundation properties" featured in the article "The business of restituting properties in Istanbul."
 
 The database is the product of a Pulitzer Center-funded investigation into the confiscation, reclamation and development of the real estate properties of 167 non-Muslim communal charitable foundations in Istanbul, from the final years of the Ottoman Empire until today. It catalogues the history of dozens of buildings that sit along a main artery of the city, including how they have changed name and function, whether they were confiscated, restituted and registered, whether they were involved in a court case, whether they were slated for redevelopment and by whom and other relevant details on the properties. While the state has confiscated thousands of properties owned by non-Muslim foundations across Turkey, this representative selection has allowed for the telling of a more precise and revealing story. 
 
