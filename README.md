@@ -12,4 +12,4 @@ The database cannot be modified, but it can be downloaded for public use includi
 
 "Foundation properties" has an Open Database License https://opendatacommons.org/licenses/odbl/1.0/ and a Creative Commons Attribution-ShareAlike license https://creativecommons.org/licenses/by-sa/3.0/.
 
-Please cite the database as: Naomi Cohen, “Foundation properties,” Middle East Eye, June 2021.
+Please cite the database as: Naomi Cohen, “Foundation properties,” Middle East Eye, July 2021.
