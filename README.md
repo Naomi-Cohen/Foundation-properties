@@ -6,10 +6,10 @@ The database is the product of a Pulitzer Center-funded investigation into the c
 
 The data was compiled though interviews, OSINT, archival research and research already conducted by the Hrant Dink Foundation in its project "2012 Declaration" (on the properties of Armenian foundations) and by Melih Cılga in his project for the workshop "Facing the Past, Looking Ahead" funded by P24 and the Friedrich Ebert Stiftung (on the properties of Greek foundations). "Foundation properties" includes research into land registry files, foundation reports, court cases, public bulletins, megaproject investigations, real estate news clippings and articles in Armenian media in various languages. Because much of the information is withheld from the public, the data that could be collected was cross-referenced with dozens of interviews with lawyers, historians, urban researchers, foundation board presidents and members, journalists, non-Muslim community representatives, bibliopoles, contractors, architects, neighbors and other people familiar with these properties.
 
-To read about why these properties were confiscated and how they were reclaimed and redeveloped, see the article "'Ripping it apart': How an anti-discrimination law transformed Istanbul," published in Middle East Eye (citation: Naomi Cohen, "'Ripping it apart': How an anti-discrimination law transformed Istanbul," Middle East Eye, December 2021).
+To read about why these properties were confiscated and how they were reclaimed and redeveloped, see the article "'Ripping it apart': How an anti-discrimination law transformed Istanbul," published in Middle East Eye (citation: Naomi Cohen, "'Ripping it apart': How an anti-discrimination law transformed Istanbul," Middle East Eye, April 2022).
 
 The database cannot be modified, but it can be downloaded for public use including research, publication and teaching. Please send any errors or concerns to naomicohen@protonmail.com — we are happy to consider them and will update the database accordingly.
 
 "Foundation properties" has an Open Database License https://opendatacommons.org/licenses/odbl/1.0/ and a Creative Commons Attribution-ShareAlike license https://creativecommons.org/licenses/by-sa/3.0/.
 
-Please cite the database as: Naomi Cohen, “Foundation properties,” Middle East Eye, December 2021.
+Please cite the database as: Naomi Cohen, “Foundation properties,” Middle East Eye, April 2022.
